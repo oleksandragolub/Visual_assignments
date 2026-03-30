@@ -1,4 +1,5 @@
 Partendo dallo scheletro del codice fornito:
 
-implementare la gamma correction adattativa utilizzando il filtro gaussiano per il calcolo di Mask in eq.1.
-sostituire il filtro gaussiano con il filtro bilaterale
+- implementare la gamma correction adattativa utilizzando il filtro gaussiano per il calcolo di Mask in eq.1.
+
+- sostituire il filtro gaussiano con il filtro bilaterale
