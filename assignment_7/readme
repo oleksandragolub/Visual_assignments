@@ -1,1 +1,5 @@
+Da fare:
 
+- Modificare le porzioni di codice commentate con "TBD" nel codice fornito al fine di ottenere le performance più elevate possibile.
+
+- Partizionare il training set in modo da avere un validation set vero e proprio.
