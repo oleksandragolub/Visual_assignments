@@ -1,1 +1,5 @@
+Da fare:
 
+- estrarre le feature da 3 punti differenti della rete: uno più vicino all'input, uno verso la metà della rete, ed uno più vicino all'output. Nel caso di problemi di memoria a gestire features con centinaia di dimensioni, queste possono essere ridotte (ad es. tramite pca o sotto-campionamento)
+
+- confrontare le performance di classificazione delle features estratte al punto precedente sul dataset fornito ed utilizzato anche nella scorsa esercitazione (i.e., Simplicity), sia con normalizzazione delle feature che senza
